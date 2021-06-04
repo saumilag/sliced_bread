@@ -64,5 +64,7 @@ If you prefer to do the Greatest Beverage challenge in a different language, we 
 ### First step
 1. Clone this repo
 2. Code
-3. ?
+3. ??
 4. Create a Pull Request as your submission
+
+Thank you!
