@@ -16,7 +16,7 @@ class CustomerForm(forms.ModelForm):
                 'city',
                 'province',
                 'country',
-                Submit('submit', 'Submit Order', css_class='btn-success')
+                Submit('submit', 'Place Order', css_class='btn-success')
             )
     class Meta:
         model = Customer
